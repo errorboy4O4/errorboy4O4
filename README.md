@@ -12,10 +12,11 @@ Hi, I’m Kaushik Gaur 👋   <br>A data analytics enthusiast who enjoys turning
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/kaushik-gaur-007aab242/](https://www.linkedin.com/in/kaushik-gaur-007aab242/)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@errorboy4O4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaushikgaur404@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushik-gaur-007aab242) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@errorboy4O4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaushikgaur404@gmail.com) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+
 SQL | Python | Power BI | Pandas | NumPy | Excel | Jupyter Notebook | Data Visualization | Data Cleaning
 
 # 📊 GitHub Stats:
@@ -26,4 +27,5 @@ SQL | Python | Power BI | Pandas | NumPy | Excel | Jupyter Notebook | Data Visua
 ---
 [![](https://visitcount.itsvg.in/api?id=errorboy4O4&icon=2&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
